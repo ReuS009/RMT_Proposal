@@ -10,6 +10,9 @@ are proposed.
 -->
 
 ## Project team
+The project team lead (Principal Investigator) will be Reuel Smith.  He is the creator and lead maintainer of the Reliability Modeling Toolkit (RMT) [https://github.com/crr-umd] and is well versed with concepts of R coding, testing, and debugging and reliability engineering including accelerated testing, probabilistic physics of failure, and modeling.
+The team will also consist of a graduate research assistant who is familiar with the reliability engineering concepts covered by the RMT and coding.  Will be responsible for code refractoring, test driven development (testthat cases), and CRAN preparation.
+
 <!--
 Who are the people responsible for actually delivering the project if
 the proposal gets accepted and are already signed up and rearing to
